@@ -1,5 +1,5 @@
 # FruitIdentifier
-## Referencias para o desenvolvimento
+## Referências para o desenvolvimento
  Para o desenvolvimento do projeto foi feito uso do conjunto de funções Regionprops do octave.<br/>
  Link para a documentação oficial<br/>
  https://octave.sourceforge.io/image/function/regionprops.html<br/>
