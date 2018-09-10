@@ -1,7 +1,7 @@
 # FruitIdentifier
-## Referências para o desenvolvimento
- Para o desenvolvimento do projeto foi feito uso do conjunto de funções Regionprops do octave.<br/>
- Link para a documentação oficial<br/>
+## ReferÃªncias para o desenvolvimento
+ Para o desenvolvimento do projeto foi feito uso da biblioteca Regionprops do octave.<br/>
+ Link para a documentaÃ§Ã£o oficial<br/>
  https://octave.sourceforge.io/image/function/regionprops.html<br/>
- Documentação do matlab tambem foi utilizada para maior compreenção do uso das funções<br/>
+ DocumentaÃ§Ã£o do matlab tambem foi utilizada para maior compreenÃ§Ã£o do uso das funÃ§Ãµes<br/>
  https://www.mathworks.com/help/images/ref/regionprops.html<br/>
